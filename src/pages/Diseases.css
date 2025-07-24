@@ -1,0 +1,16 @@
+.diseases-page {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  min-height: 100vh;
+  padding: 4rem 0;
+}
+
+.diseases-header h1 {
+  color: #2d3436;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.diseases-header p {
+  color: #636e72;
+  font-size: 1.25rem;
+}
